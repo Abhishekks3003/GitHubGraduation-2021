@@ -1,4 +1,6 @@
-name: Abhishek Kumar
-institution: Kalinga institute of industrial technology
-quote: NEVER GIVE UP FROM CODE.
+---
+name: ABHISHEK KUMAR
+institution: KALING INSTITUTE OF INDUSTRIAL TECHNOLOGY 🚩 
+quote: CODE UNTIL DIE
 github_user: Abhishekks3003
+---
